@@ -92,3 +92,4 @@ company = Company(
 
 
 print(company.model_dump_json())
+print(company.model_json_schema())
