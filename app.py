@@ -127,6 +127,7 @@ try:
         users=["6646f01572df32597deaf35d", "6646f01572df32597deaf35d"],
         isVerified=True,
         country="India",
+        status = "ACTIVE",
         createdAt={"$date": "2024-05-17T05:50:11.034Z"},
         modifiedAt={"$date": "2024-05-21T07:30:20.028Z"},
         isProcMaster=False,
